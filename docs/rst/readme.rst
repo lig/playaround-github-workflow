@@ -1,1 +1,1 @@
-`Index <index.rst>`
+`Index <index.rst>`_
